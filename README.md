@@ -1,4 +1,3 @@
-
 # Projeto | HTML - dio
 
 Criação de um blog utilizando apenas HTML, o blog consistem em ensinar algumas das principais tag do HTML.
@@ -55,8 +54,12 @@ Criação de um blog utilizando apenas HTML, o blog consistem em ensinar algumas
         </ul>
     <h2 id="Link"><blockquote><mark><u>Link</u></mark></blockquote></h2>
         <p>As tags de link em HTML são usadas para criar hiperlinks, permitindo que os usuários naveguem entre diferentes páginas da web. Existem duas principais tags de link em HTML:</p>
+        <ul>
+            <li><"a">: Esta é a tag principal para criar links em HTML. "a" significa "âncora". É utilizada para definir uma hiperligação (link) entre uma página e outra, ou entre uma página e um recurso externo, como uma imagem, um documento PDF, um arquivo de áudio, etc.</li>
+            <li>href: Este é um atributo obrigatório da tag "a". Ele define o destino do link. Pode ser uma URL, um endereço de e-mail ou um identificador dentro do mesmo documento.</li>
+            <p>Essas são as principais características das tags de link HTML. Elas são essenciais para a navegação na web e para a integração de diferentes recursos em páginas da web.</p>
 
-        
+        </ul>
 </body>
 </html>
 ```
@@ -66,8 +69,3 @@ Criação de um blog utilizando apenas HTML, o blog consistem em ensinar algumas
 
 ## 📝 Explicações
 - Algumas tag não foram utilizadas por conta que não vi utilidade nesse projeto básico de criação do blog.
-
-
-
-
-
