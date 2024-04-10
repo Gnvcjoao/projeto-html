@@ -1,3 +1,4 @@
+
 # Projeto | HTML - dio
 
 Criação de um blog utilizando apenas HTML, o blog consistem em ensinar algumas das principais tag do HTML.
@@ -10,11 +11,11 @@ Criação de um blog utilizando apenas HTML, o blog consistem em ensinar algumas
 | Tags |
 |------|
 | Texto | 
-| *<p>; <h1> até <h6>; <strong> e <i>* |
+| *p; h1 até h6; strong e i* |
 | Listas |
-|*<ol>; <ul> e <li>*|
+|*ol; ul e li*|
 | Link |
-|*<a>*|
+|*a*|
 
 
 ```
@@ -65,5 +66,8 @@ Criação de um blog utilizando apenas HTML, o blog consistem em ensinar algumas
 
 ## 📝 Explicações
 - Algumas tag não foram utilizadas por conta que não vi utilidade nesse projeto básico de criação do blog.
+
+
+
 
 
